@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+streamlit
+sqlalchemy
+langchain
+langchain-google-genai
+sqlglot
+python-dotenv
+pandas
+fastapi
+uvicorn
+streamlit
+sqlalchemy
+langchain
+langchain-google-genai # Or langchain-openai if you prefer OpenAI
+sqlglot
+python-dotenv
+pandas
